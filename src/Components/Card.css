@@ -1,0 +1,37 @@
+.MainCardBox{
+    display: flex;
+    justify-content: center;
+    padding-top: 55px;
+}
+.PhotoOfPlace{
+    height: 250px;
+    width: 300px;
+    border-radius: 25px;
+}
+.ContentCardDiv{
+    padding-top: 25px;
+    padding-left: 50px;
+}
+.CardTitleDiv{
+    display: flex;
+    align-items: left;
+    font-size: 17px;
+}
+.NameOfPlace{
+    font-size: 40px;
+    line-height: 30px;
+}
+.LinkToGoogle{
+    padding-left: 35px;
+}
+.Date{
+    font-size: 15px;
+    font-weight: bold;
+}
+.Logo{
+    width: 20px;
+    height: 25.55px;
+}
+.CardDescription{
+    width: 550px;
+}

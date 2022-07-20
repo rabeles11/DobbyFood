@@ -1,0 +1,29 @@
+.HeaderDiv{
+    background-color: #F55A5A;
+    position: absolute;
+    height: 55px;
+    width: 100%;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TextBoxInHeader{
+    display: flex;
+    align-items: center;
+}
+
+.Logo{
+    padding-right: 10px;
+}
+
+.TravelText{
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25.4608px;
+
+}
